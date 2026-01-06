@@ -4,7 +4,7 @@ title: Scholarly Podcasting
 nav_order: 4
 ---
 
-<img src="assets/img/scholarly-podcasting.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/Scholarly-Podcasting.png" alt="Workshop Title Slide" width="100%">
 
 # Scholarly Podcasting: Voices, Stories, & Strategies
 
