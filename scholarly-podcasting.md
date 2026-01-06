@@ -1,10 +1,8 @@
 ---
 layout: default
-title: Workshop Recording
+title: Scholarly Podcasting
 nav_order: 4
 ---
-
-// <img src="assets/img/digital-inequalities.png" alt="Workshop Title Slide" width="100%">
 
 # Scholarly Podcasting: Voices, Stories, & Strategies
 
