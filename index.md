@@ -12,7 +12,7 @@ This will be the home page of your module. It should give a small introduction t
 Add, edit, or remove any content below for the workshop in question. -->
 
 <!-- Title slide image. Replace img src with your own, or comment this out. -->
-<img src="assets/img/titleSlide.png" alt="Workshop Title Slide" width="100%">
+<img src="assets/img/SpecialEvents-titleSlide.png" alt="Workshop Title Slide" width="100%">
 
 <!-- Main header -->
 # Welcome to the 2025-2026 Special Events Page.
