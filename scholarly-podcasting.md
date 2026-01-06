@@ -4,6 +4,8 @@ title: Scholarly Podcasting
 nav_order: 4
 ---
 
+<img src="assets/img/scholarly-podcasting.png" alt="Workshop Title Slide" width="100%">
+
 # Scholarly Podcasting: Voices, Stories, & Strategies
 
 Podcasting has emerged as a powerful tool for scholars to share knowledge, foster dialogue, and reach audiences far beyond traditional academic channels. Podcasts are increasingly utilized to mobilize knowledge, enhance teaching, build academic communities, and collect research data. However, conventional conceptions of research impact continue to privilege traditionally peer-reviewed publications over this more flexible and dynamic form of scholarly activity.  
